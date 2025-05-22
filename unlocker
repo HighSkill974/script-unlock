@@ -40,7 +40,7 @@ index.html
 </head>
 <body>
   <h1>Script to Execute</h1>
-  <pre><code>loadstring(game:HttpGet("https://raw.githubusercontent.com/HighSkill974/myscript.lua/main/HighSkill"))()</code></pre>
+  <pre><code>loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/HighSkill974/Antiafk/main/noafk"))()"))()</code></pre>
   <p>Copy the script above and paste it in your Roblox executor to run.</p>
 </body>
 </html>
